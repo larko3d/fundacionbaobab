@@ -119,13 +119,13 @@ img {
 }
 
 ::selection {
-  background: rgba(0, 0, 0, 0.8);
+  background:white;
   color: #54595F;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background: rgba(0, 0, 0, 0.8);
+  background:white;
   color: #54595F;
   text-shadow: none;
 }
