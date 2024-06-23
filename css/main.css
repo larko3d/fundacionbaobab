@@ -992,9 +992,10 @@ form#form button:hover {
 }
 
 .featured-post .post-list {
-  background: #f3f3f3;
+  background: #1BAE70;
   width: 60%;
   padding: 74px 68px 0 100px;
+  color:white;
 }
 
 .featured-post .post-list.bg-colored {
@@ -1071,6 +1072,7 @@ form#form button:hover {
 .grid-item.top-item .hrl-item .text-block {
   width: 38%;
   padding: 125px 80px;
+  background-color: #06752E;
 }
 
 .grid-item.top-item .hrl-item .text-block h3 {
@@ -1194,9 +1196,9 @@ form#form button:hover {
 /*----- Footer Part
 --------------------------------------------------------------*/
 #footer {
-  background: #000;
+  background: #1BAE70;
   padding: 185px 0;
-  color: #adadad;
+  color: white;
 }
 
 #footer .footer-content {
