@@ -39,7 +39,7 @@ section {
 
 a {
   color: #111;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 a:hover {
