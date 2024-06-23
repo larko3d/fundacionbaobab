@@ -504,7 +504,7 @@ header#header {
 /*----- Header Social links
 --------------------------------------------------------------*/
 .header-wrap .social-links {
-  margin-left: 37px;
+  /* margin-left: 37px; */
 }
 
 .social-links ul {
