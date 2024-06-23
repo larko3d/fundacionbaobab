@@ -1208,12 +1208,12 @@ form#form button:hover {
 }
 
 #footer a {
-  color: #adadad;
+  color: white;
   text-transform: uppercase;
 }
 
 #footer a:hover {
-  color: #fff;
+  color: #e9663c;
 }
 
 .footer-menu .social-links a {
