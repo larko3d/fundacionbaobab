@@ -648,6 +648,7 @@ header#header {
   transform: translateY(100%);
 }
 
+
 /*----- Summary Section
 --------------------------------------------------------------*/
 #summary-wrapper .summary-content {
@@ -1252,4 +1253,11 @@ form#form button:hover {
     flex: 0 0 50%;
     max-width: 50%;
   }
+}
+
+#colaborar h4{
+  font-size: 1.8rem !important;
+}
+#colaborar p{
+  font-size: 1.2rem !important;
 }
