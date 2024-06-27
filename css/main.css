@@ -571,7 +571,7 @@ header#header {
     height: 100%;
     background-color: rgba(255, 255, 255, 0.9);
     flex-direction: column;
-    /* text-align: center; */
+    text-align: center;
     transition: 0.3s;
     z-index: 5;
     padding-top: 10em;
@@ -607,6 +607,12 @@ header#header {
 
   .hamburger.active .bar:nth-child(3) {
     transform: translateY(-8px) rotate(-45deg);
+  }
+  #mapDiv {
+    width: 87% !important;
+  }
+  #mapDiv body{
+    width: 114% !important; 
   }
 }
 
@@ -1265,6 +1271,12 @@ form#form button:hover {
   font-size: 1.2rem !important;
 }
 #patronato li{
-  font-size: 1.2rem !important;
+    font-size: 1.2rem !important;
 
+}
+
+@media only screen and (max-width: 1080px) {
+  #mapa{
+    width: 99% !important;
+  }
 }
