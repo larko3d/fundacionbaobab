@@ -571,7 +571,7 @@ header#header {
     height: 100%;
     background-color: rgba(255, 255, 255, 0.9);
     flex-direction: column;
-    text-align: center;
+    /* text-align: center; */
     transition: 0.3s;
     z-index: 5;
     padding-top: 10em;
@@ -1263,4 +1263,8 @@ form#form button:hover {
 }
 #objetivos p{
   font-size: 1.2rem !important;
+}
+#patronato li{
+  font-size: 1.2rem !important;
+
 }
